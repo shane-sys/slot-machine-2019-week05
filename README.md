@@ -14,7 +14,7 @@ Build a simple slot machine with minimum 5 items per reel and 3 reels - user sho
   
 # Optimizations
 
-  I really want to get back in the profile section and add a lot more to play with.
+  
   
   # Lessons Learned:
 
